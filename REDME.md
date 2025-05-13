@@ -1,3 +1,4 @@
 # Programmierung Kurs 1
-das ist ein Kurs
-### Author 
+Das ist ein Kurs
+### Author
+Saif
