@@ -7,4 +7,8 @@ public class Calculator {
     }
 
     // TODO SAIF sub
+    public static int sub(int a, int b){
+        return a-b;
+    }
 }
+
