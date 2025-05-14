@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa86c0b5-7b95-4dda-a140-a283270e7d63" name="Changes" comment="add sub methode" />
+    <list default="true" id="fa86c0b5-7b95-4dda-a140-a283270e7d63" name="Changes" comment="fixes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,9 +37,6 @@
     "accountId": "7cf9bfce-c3ce-4aed-aec5-166b674b0258"
   }
 }]]></component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
-  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -52,7 +49,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "saif__sub",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/adnan.nassar/Desktop/Mine/Kursen/PK1_Saif/PK1_Saif",
     "node.js.detected.package.eslint": "true",
@@ -108,15 +105,7 @@
       <option name="project" value="LOCAL" />
       <updated>1747165569113</updated>
     </task>
-    <task id="LOCAL-00002" summary="add sub methode">
-      <option name="closed" value="true" />
-      <created>1747166639725</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1747166639725</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,7 +134,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fixes" />
-    <MESSAGE value="add sub methode" />
-    <option name="LAST_COMMIT_MESSAGE" value="add sub methode" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixes" />
   </component>
 </project>
