@@ -10,9 +10,5 @@ public class Calculator {
     public static int sub(int a, int b){
         return a-b;
     }
-    // TODO SAIF multi
-    public static int multi(int a, int b){
-        return a *  b;
-    }
 }
 
