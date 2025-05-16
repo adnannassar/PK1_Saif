@@ -7,4 +7,12 @@ public class Calculator {
     }
 
     // TODO SAIF sub
+    public static int sub(int a, int b){
+        return a-b;
+    }
+    // TODO SAIF multi
+    public static int multi(int a, int b){
+        return a *  b;
+    }
 }
+
