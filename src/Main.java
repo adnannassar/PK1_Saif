@@ -7,5 +7,6 @@ public class Main {
         System.out.println("sub: " + calculator.sub(10, 2));
         System.out.println("mult: " + calculator.mult(10, 2));
         System.out.println("div: " + calculator.div(10, 2));
+        System.out.println("mod: " + calculator.mod(10, 2));
     }
 }
